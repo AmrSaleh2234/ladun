@@ -25,6 +25,7 @@
     <nav class="px-24 py-10">
         <div class="flex justify-between items-center">
 
+            <img class="w-20" src="img/logo.png">
 
             <ul class="flex justify-between w-80 text-white">
                 <li>hello</li>
@@ -33,9 +34,14 @@
                 <li>hello</li>
 
             </ul>
-            <img class="w-20" src="img/logo.png">
         </div>
     </nav>
+    <div class="h-full w-full">
+        <div class="social">
+
+        </div>
+        <img src="img/logowithouttext.png">
+    </div>
 </header>
 </body>
 </html>
